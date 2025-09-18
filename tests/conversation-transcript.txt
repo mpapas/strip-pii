@@ -1,0 +1,15 @@
+Agent: Thank you for reaching out about your product. With you today is John from the complaints and suggestions department, how can I help you today
+Customer: I have a big problem with the product I bought from your site this week.
+Agent: Reviewing your request now. Your request number 538879 was on Wednesday correct?
+Customer: Yup
+Agent: Ok, Mr. Smith can you explain to me what is the problem exactly?
+Customer: The product was supposed to be delivered to me at 6 p.m., but I was surprised that the agent was two hours late!!!
+Agent: All right, the shipment was 6:00 p.m. on Wednesday, is it right?
+Customer: Yes. To the address I provided in the order.
+Agent: Could I review the address we have on file for you? Is it 774 Washington Blvd., Apt A, Sarasota, FL 34230?
+Customer: Yes that looks correct.
+Agent: I apologize to you very much Mr. Smith, and the necessary work will be done, and strict measures will be taken with the representative immediately, and an apology from our company to you we will offer you a 50% discount on any product you want from our site and shipping the product is free
+Agent: Ok, Mr. Smith a customer service representative will contact you from the department of inquiries about the method of using the product as soon as possible, is the email we have on file correct? smithHA@email.com?
+Customer: Yes. thanks a lot
+Agent: thank you for contacting the customer service of the company.
+
