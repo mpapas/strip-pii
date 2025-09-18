@@ -18,11 +18,10 @@ This guide explains how to deploy your Azure Function app (with Azure AI Languag
 If you haven't already, initialize the project:
 
 ```bash
-azd init --template "azure-functions-python"
+azd init
 ```
 
-- Follow prompts to set environment name, location, etc.
-- This will create an `infra/` folder with Bicep or Terraform files for Azure resources.
+- Follow prompts
 
 ---
 
