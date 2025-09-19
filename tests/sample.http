@@ -29,4 +29,12 @@ Authorization: token xxx
   "transcription": "Mateo Gomez, 28-year-old man, suffered a car accident driving near his home on Hollywood Boulevard on August 17th, 2022, and was admitted to Contoso General Hospital in Los Angeles California at 7:45 PM. The patient showed signs of chest trauma indicating possible rib fracture and had difficulty breathing. A chest CT scan and AP X-ray were performed to determine the damage to ribs and lungs. Results showed a pseudoaneurysm of the thoracic aorta with minor fracture to the first and third right ribs. Patient was kept in the ICU where treatment was initiated. A Stent was surgically placed to stabilize the hemorrhage until the blood oxygen level reached 95 percent. The patient was discharged on September 1st, 2022, under the supervision of his caretaker Nickolaus Schulz, passport number: B12345678."
 }
 ###
+POST https://strip-pii.azurewebsites.net/api/processTranscript HTTP/1.1
+Content-Type: application/json
+x-functions-key: 
 
+{
+  "id": "324728473",
+  "transcription": "Mateo Gomez, 28-year-old man, suffered a car accident driving near his home on Hollywood Boulevard on August 17th, 2022, and was admitted to Contoso General Hospital in Los Angeles California at 7:45 PM. The patient showed signs of chest trauma indicating possible rib fracture and had difficulty breathing. A chest CT scan and AP X-ray were performed to determine the damage to ribs and lungs. Results showed a pseudoaneurysm of the thoracic aorta with minor fracture to the first and third right ribs. Patient was kept in the ICU where treatment was initiated. A Stent was surgically placed to stabilize the hemorrhage until the blood oxygen level reached 95 percent. The patient was discharged on September 1st, 2022, under the supervision of his caretaker Nickolaus Schulz, passport number: B12345678."
+}
+###

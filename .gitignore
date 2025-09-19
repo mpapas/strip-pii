@@ -149,6 +149,8 @@ deploy.cmd
 
 # Local development files
 *.local
+# Ignore any files that contain `.local.` anywhere in the filename (e.g. `config.local.json`)
+*.local.*
 debug.log
 *.tmp
 *.temp
